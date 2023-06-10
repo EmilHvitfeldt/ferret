@@ -13,3 +13,5 @@ Imports:
     purrr,
     rstudioapi,
     tibble
+URL: https://github.com/EmilHvitfeldt/ferret
+BugReports: https://github.com/EmilHvitfeldt/ferret/issues
